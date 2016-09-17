@@ -1,0 +1,17 @@
+c:\users\avera\documents\visual studio 2015\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe.config
+c:\users\avera\documents\visual studio 2015\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe
+c:\users\avera\documents\visual studio 2015\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.pdb
+c:\users\avera\documents\visual studio 2015\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csprojResolveAssemblyReference.cache
+c:\users\avera\documents\visual studio 2015\Projects\Save the Humans\Save the Humans\obj\Debug\App.g.cs
+c:\users\avera\documents\visual studio 2015\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans_MarkupCompile.cache
+c:\users\avera\documents\visual studio 2015\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans_MarkupCompile.lref
+c:\users\avera\documents\visual studio 2015\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.g.resources
+c:\users\avera\documents\visual studio 2015\Projects\Save the Humans\Save the Humans\obj\Debug\Save_the_Humans.Properties.Resources.resources
+c:\users\avera\documents\visual studio 2015\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csproj.GenerateResource.Cache
+c:\users\avera\documents\visual studio 2015\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.exe
+c:\users\avera\documents\visual studio 2015\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.pdb
+C:\Users\avera\Documents\Visual Studio 2015\Projects\Save the Humans\Save the Humans\obj\Debug\SaveTheHumans.g.cs
+C:\Users\avera\Documents\Visual Studio 2015\Projects\Save the Humans\Save the Humans\obj\Debug\SaveTheHumans.baml
+C:\Users\avera\Source\Repos\savethehumans\Save the Humans\bin\Debug\Save the Humans.exe.config
+C:\Users\avera\Source\Repos\savethehumans\Save the Humans\obj\Debug\Save the Humans.exe
+C:\Users\avera\Source\Repos\savethehumans\Save the Humans\obj\Debug\Save the Humans.pdb
